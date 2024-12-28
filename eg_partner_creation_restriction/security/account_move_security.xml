@@ -1,0 +1,11 @@
+<odoo>
+    <record model="ir.module.category" id="module_partner_creation">
+        <field name="name">Res Partner</field>
+        <field name="sequence">1</field>
+    </record>
+
+    <record id="partner_creation_restriction_group" model="res.groups">
+        <field name="name">Partner Creation Restriction</field>
+        <field name="category_id" ref="module_partner_creation"/>
+    </record>
+</odoo>
