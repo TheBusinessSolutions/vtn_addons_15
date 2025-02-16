@@ -6,7 +6,7 @@
     "author": "Opsway",
     "website": "https://opsway.com",
     "depends": [
-        "account"
+        "account","account_reconciliation_widget"
     ],
     "data": [
         "views/account_move_views.xml"
