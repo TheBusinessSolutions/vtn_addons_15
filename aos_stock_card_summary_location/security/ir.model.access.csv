@@ -1,0 +1,5 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_stock_card_summary_wizard_location,access.stock.card.summary.wizard.location,model_stock_card_summary_wizard_location,base.group_user,1,1,1,0
+access_report_stock_card_summary_location,access.report.stock.card.summary.location,model_report_stock_card_summary_location,base.group_user,1,1,1,0
+access_stock_card_summary_view_location,access.stock.card.summary.view.location,model_stock_card_summary_view_location,base.group_user,1,1,1,0
+access_common_xlsx_out,access_common_xlsx_out,model_common_xlsx_out,,1,1,1,1
